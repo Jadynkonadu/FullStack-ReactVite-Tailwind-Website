@@ -741,5 +741,3 @@ const Home = () => {
 // Home Page Ends
 };
 export default Home;
-
-// WE DID IT !!!
