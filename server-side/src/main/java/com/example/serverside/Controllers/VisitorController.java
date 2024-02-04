@@ -15,7 +15,7 @@ import com.example.serverside.Repositories.VisitorRepo;
 
 @RestController
 @RequestMapping("/visitors")
-@CrossOrigin(origins = "https://jac-enterprises.onrender.com")
+@CrossOrigin(origins = "http://localhost:5173")
 public class VisitorController {
     @Autowired
     private VisitorRepo visitorRepo;
