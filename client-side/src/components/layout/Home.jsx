@@ -322,9 +322,9 @@ const Home = () => {
                         <div className="sm:max-w-sm space-y-4 mx-4">
                             <img
                                 className="w-full shadow-2xl rounded-lg transition-transform hover:scale-105 hover:animate-pulse cursor-pointer h-72"
-                                src="https://www.nasa.gov/sites/default/files/thumbnails/image/sts1-0586-80pc-704-12.29.80.jpg"
+                                src="https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/16/O5PPQM5SRRDWDEXKBXN3MIIUVM.jpg?w=620"
                                 alt="Columbia Shuttle"
-                                onClick={() => openImagePopup("https://www.nasa.gov/sites/default/files/thumbnails/image/sts1-0586-80pc-704-12.29.80.jpg")}
+                                onClick={() => openImagePopup("https://www.orlandosentinel.com/wp-content/uploads/migration/2023/01/16/O5PPQM5SRRDWDEXKBXN3MIIUVM.jpg?w=620")}
                             ></img>
                             <div className="px-6 py-4">
                                 <div className="mb-2 text-xl font-bold">
