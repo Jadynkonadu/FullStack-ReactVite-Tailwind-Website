@@ -14,7 +14,7 @@ import com.example.serverside.Repositories.TopicRepo;
 
 @RestController
 @RequestMapping("/topic")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://jac-enterprises.onrender.com")
 public class TopicController {
     @Autowired
     private TopicRepo topicRepo;
